@@ -1,7 +1,11 @@
-# 👨‍💻 Ayarlama
-Ayarlamaya başlamadan önce **MUTLAKA** [config.json](https://glitch.com/edit/#!/resolute-crawling-beet?path=config.json) dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
+# 🎏 Altyapı
+Altyapıya erişmek için benimle iletişime geçin. Discord profilim için [tıkla](https://discord.com/users/697454127545974895).
 
-[.env](https://glitch.com/edit/#!/resolute-crawling-beet?path=.env) dosyasında **`Add a Variable`** tuşuna basıp sol tarafa token, sağ tarafa "" işaretleri olmadan yan hesabınızın tokenini yazıp çalıştırabilirsiniz.
+
+# 👨‍💻 Ayarlama
+Ayarlamaya başlamadan önce **MUTLAKA** [config.json]() dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
+
+[.env]() dosyasında **`Add a Variable`** tuşuna basıp sol tarafa token, sağ tarafa "" işaretleri olmadan yan hesabınızın tokenini yazıp çalıştırabilirsiniz.
 
 
 # 🧠 Bilgi
