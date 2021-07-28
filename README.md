@@ -1,3 +1,7 @@
+# 🎏 Altyapı
+Altyapıya erişmek için benimle iletişime geçin. Discord profilim için [tıkla](https://discord.com/users/697454127545974895).
+
+
 # 👨‍💻 Ayarlama
 Ayarlamaya başlamadan önce **MUTLAKA** [config.json](https://glitch.com/edit/#!/resolute-crawling-beet?path=config.json) dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
 
