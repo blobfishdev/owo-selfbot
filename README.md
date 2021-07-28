@@ -1,11 +1,7 @@
-# 🎏 Altyapı
-Altyapıya erişmek için benimle iletişime geçin. Discord profilim için [tıkla](https://discord.com/users/697454127545974895).
-
-
 # 👨‍💻 Ayarlama
-Ayarlamaya başlamadan önce **MUTLAKA** [config.json](https://github.com/blobfishdev/owo-selfbot/blob/main/config.json) dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
+Ayarlamaya başlamadan önce **MUTLAKA** [config.json](https://glitch.com/edit/#!/resolute-crawling-beet?path=config.json) dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
 
-[.env](https://github.com/blobfishdev/owo-selfbot/blob/main/.env) dosyasında **`Add a Variable`** tuşuna basıp sol tarafa token, sağ tarafa "" işaretleri olmadan yan hesabınızın tokenini yazıp çalıştırabilirsiniz.
+[.env](https://glitch.com/edit/#!/resolute-crawling-beet?path=.env) dosyasında **`Add a Variable`** tuşuna basıp sol tarafa token, sağ tarafa "" işaretleri olmadan yan hesabınızın tokenini yazıp çalıştırabilirsiniz.
 
 
 # 🧠 Bilgi
@@ -16,24 +12,42 @@ Self-bot siz **`wh`** yazdığınızda **`owo h`**, **`wb`** yazdığınızda **
 Coin-flip için: **`.cf <miktar>`**
   
 Slots için: **`.s <miktar>`**
+
+Lootbox açmak için: **`.lb`** / **`.lb all`**
+
+Weapon açmak için: **`.wc`** / **`.wc all`**
   
-Günlük ödül için: **`.daily`**
+Günlük ödül için: **`.daily`** / **`.d`**
   
-Para çekmek için: **`.çek <miktar>`**
+Para çekmek için: **`.çek <miktar>`** / **`.ç <miktar>`**
+
+Takımınıza hayvan eklemek için: **`.team-add <hayvan> <konum>`** / **`.ta <hayvan> <konum>`**
+
+Takımınızdan hayvan çıkarmak için: **`.team-remove <hayvan>`** / **`.tr <hayvan>`**
+
+Tüm hayvanlarınızı satmak için: **`.sell all`**
+
+Silahlarınızı satmak için: **`.sell cw/uw/rw/ew/mw/lw`**
   
-100k çekmek için: **`.100k`**
+100k çekmek için: **`.100k`** / **`.çek 100000`**
   
-50k çekmek için: **`.50k`**
+50k çekmek için: **`.50k`** / **`.çek 50000`**
   
-10k çekmek için: **`.10k`**
+10k çekmek için: **`.10k`** / **`.çek 10000`**
   
-1k çekmek için: **`.1k`**
+1k çekmek için: **`.1k`** / **`.çek 1000`**
   
-Paranıza bakmak için: **`.cash`**
+Paranıza bakmak için: **`.cash`** / **`.c`**
+
+Zoo'nuza bakmak için: **`.zoo`** / **`.z`**
+
+Silahlarınıza bakmak için: **`.weapon`** / **`.w`**
+
+Team'inize bakmak için: **`.team`** / **`.t`**
   
-Gem kullanmak için: **`.gem <gem id>`**
+Gem kullanmak için: **`.gem <gem id>`** / **`.g <gem id>`**
   
-Envantere bakmak için: **`.inv`**
+Envantere bakmak için: **`.inv`** / **`.i`**
 
 
 # 🎈 Notlar
