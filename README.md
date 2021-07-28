@@ -9,6 +9,8 @@ Self-bot siz **`wh`** yazdığınızda **`owo h`**, **`wb`** yazdığınızda **
 
 
 # 💻 Komutlar
+Kendinize cookie atmak için: **`.cookie`**
+
 Kendinize pray atmak için: **`.pray`** / **`.p`**
 
 Kendinize curse atmak için: **`.curse`**
