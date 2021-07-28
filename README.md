@@ -9,6 +9,10 @@ Self-bot siz **`wh`** yazdığınızda **`owo h`**, **`wb`** yazdığınızda **
 
 
 # 💻 Komutlar
+Kendinize pray atmak için: **`.pray`** / **`.p`**
+
+Kendinize curse atmak için: **`.curse`**
+
 Coin-flip için: **`.cf <miktar>`**
   
 Slots için: **`.s <miktar>`**
