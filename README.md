@@ -3,9 +3,9 @@ Altyapıya erişmek için benimle iletişime geçin. Discord profilim için [tı
 
 
 # 👨‍💻 Ayarlama
-Ayarlamaya başlamadan önce **MUTLAKA** [config.json](https://glitch.com/edit/#!/resolute-crawling-beet?path=config.json) dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
+Ayarlamaya başlamadan önce **MUTLAKA** [config.json](https://github.com/blobfishdev/owo-selfbot/blob/main/config.json) dosyasını ayarlayın. Yoksa sistem düzgün çalışmaz, bot OwO'dan captcha mesajı geldiğinde sizi uyarmaz ya da mesajlarınıza yanıt vermez!
 
-[.env](https://glitch.com/edit/#!/resolute-crawling-beet?path=.env) dosyasında **`Add a Variable`** tuşuna basıp sol tarafa token, sağ tarafa "" işaretleri olmadan yan hesabınızın tokenini yazıp çalıştırabilirsiniz.
+[.env](https://github.com/blobfishdev/owo-selfbot/blob/main/.env) dosyasında **`Add a Variable`** tuşuna basıp sol tarafa token, sağ tarafa "" işaretleri olmadan yan hesabınızın tokenini yazıp çalıştırabilirsiniz.
 
 
 # 🧠 Bilgi
